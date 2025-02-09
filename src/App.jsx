@@ -24,6 +24,7 @@ const App = () => {
         <Route path="/login" element={<LoginPage />} />
         <Route path="/home" element={<HomePage />} />
         <Route path="/favorite" element={<Favoritepage />} />
+        <Route path="*" element={<RegisterPage />} />
       </Routes>
     </div>
   );
