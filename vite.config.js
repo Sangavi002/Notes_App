@@ -8,4 +8,7 @@ export default defineConfig({
     tailwindcss(),
   ],
   base: '/Notes_App/',
+  server: {
+    allowedHosts: 'all',
+  }  
 })
