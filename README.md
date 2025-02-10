@@ -1,6 +1,6 @@
 # 📓 Notes App
 
-A feature-rich Notes App developed using the MERN Stack with Tailwind CSS for styling. This application allows users to create, manage, and organize notes seamlessly, supporting both text and voice inputs.
+The Notes App is designed to help users effortlessly capture, organize, and manage their notes. Whether it's quick thoughts, important information, or voice-recorded memos, this app offers an intuitive interface and powerful features to enhance productivity. Users can sign up securely, create notes through text or voice, upload images, and even mark notes as favorites for quick access.
 
 ## 🚀 Features
 
